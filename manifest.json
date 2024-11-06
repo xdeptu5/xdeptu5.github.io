@@ -2,7 +2,7 @@
   "name": "Your Site Name",
   "short_name": "Site",
   "description": "A short description of your site",
-  "start_url": "/",
+  "start_url": "https://xdeptu5.github.io/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
