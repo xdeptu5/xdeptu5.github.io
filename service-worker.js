@@ -6,8 +6,8 @@ self.addEventListener('install', (event) => {
         '/index.html',
         '/styles.css',
         '/script.js',
-        '/icons/icon-192x192.png',
-        '/icons/icon-512x512.png',
+        'https://raw.githubusercontent.com/xdeptu5/xdeptu5.github.io/main/192.png',
+        'https://raw.githubusercontent.com/xdeptu5/xdeptu5.github.io/main/192.png',
       ]);
     })
   );
