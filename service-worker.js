@@ -7,7 +7,7 @@ self.addEventListener('install', (event) => {
         '/styles.css',
         '/script.js',
         'https://raw.githubusercontent.com/xdeptu5/xdeptu5.github.io/main/192.png',
-        'https://raw.githubusercontent.com/xdeptu5/xdeptu5.github.io/main/192.png',
+        'https://raw.githubusercontent.com/xdeptu5/xdeptu5.github.io/main/512.png',
       ]);
     })
   );
