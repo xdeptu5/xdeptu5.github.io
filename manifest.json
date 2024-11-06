@@ -8,12 +8,12 @@
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "https://static.tildacdn.com/tild3434-3734-4333-b332-326165643662/favicon_12-1.png",
+      "src": "https://raw.githubusercontent.com/xdeptu5/xdeptu5.github.io/main/favicon_12-1.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://static.tildacdn.com/tild3434-3734-4333-b332-326165643662/favicon_12-1.png",
+      "src": "https://raw.githubusercontent.com/xdeptu5/xdeptu5.github.io/main/favicon_12-1.png",
       "sizes": "512x512",
       "type": "image/png"
     }
